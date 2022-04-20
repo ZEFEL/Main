@@ -1,2 +1,3 @@
 # Main
-Sharing issues and knowleedge during 
+Sharing issues and knowleedge during training
+
